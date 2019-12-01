@@ -1,4 +1,4 @@
-package Chpt10;
+package chpt10;
 
 //exercise 10.1
 public class Time {

@@ -1,4 +1,4 @@
-package Misc;
+package misc;
 
 //exercise 3.8 page 123
 public class SortThreeInts {

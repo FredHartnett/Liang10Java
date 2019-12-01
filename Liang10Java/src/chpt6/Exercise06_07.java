@@ -1,4 +1,4 @@
-package Chpt6;
+package chpt6;
 
 import java.util.Arrays;
 

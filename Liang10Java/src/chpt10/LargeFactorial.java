@@ -1,4 +1,4 @@
-package Chpt10;
+package chpt10;
 
 import java.math.*;
 

@@ -1,4 +1,4 @@
-package Chpt10;
+package chpt10;
 
 //exercise 10.3 MyInteger class
 

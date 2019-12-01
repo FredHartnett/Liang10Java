@@ -1,4 +1,4 @@
-package Chpt10;
+package chpt10;
 
 public class Exercise_10_06_Test {
 	public static void main(String[] args) {

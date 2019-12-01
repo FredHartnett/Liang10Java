@@ -1,4 +1,4 @@
-package Chpt8;
+package chpt8;
 
 import java.util.Scanner;
 

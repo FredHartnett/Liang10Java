@@ -1,4 +1,4 @@
-package Chpt8;
+package chpt8;
 
 public class Ex08_02 {
     public static void main(String[] args) {

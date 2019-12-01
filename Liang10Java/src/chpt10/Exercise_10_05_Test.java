@@ -1,4 +1,4 @@
-package Chpt10;
+package chpt10;
 //exercise 10.5 Display the prime factors (does not do all that the exercise wants, but this works)
 
 public class Exercise_10_05_Test {

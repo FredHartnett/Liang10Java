@@ -1,4 +1,4 @@
-package Chpt10;
+package chpt10;
 
 public class Testing {
 
