@@ -35,7 +35,7 @@ public class Exercise_05_07 {
 		while(invalidInput) {
 			int s = input.nextInt();
 			
-			if((s < Tuition.getStartingYear()) || ((s+3) > Tuition.getGreatestYear())) {
+			if((s < Tuition.getStartingYear()) || ((s+3) > Tuition.getGreatestYear())) { 			
 			
 				System.out.print("Please enter a year that falls within this range 2: " + Integer.toString(Tuition.getStartingYear())+ 
 						" - " + Integer.toString((Tuition.getGreatestYear() - 3)) + "...");	
