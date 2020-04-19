@@ -16,6 +16,12 @@ public class MyArrayList {
         }
         return largest;
     }
+    
+    //exercise 11.7 shuffle
+    public static ArrayList shuffle(ArrayList<Integer> list) {
+         java.util.Collections.shuffle(list);    
+    return list;    
+    }
 
     //exercise 11.11
     public static void sort(ArrayList<Integer> list) {
