@@ -1,4 +1,4 @@
-package liang7;
+package chpt7;
 import java.util.Scanner;
 
 public class AssignGrades {
