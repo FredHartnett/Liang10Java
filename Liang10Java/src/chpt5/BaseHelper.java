@@ -1,5 +1,7 @@
 package chpt5;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class BaseHelper {
 	private int index;
 	Tuition[] array;

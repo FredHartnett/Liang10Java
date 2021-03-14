@@ -2,6 +2,7 @@ package chpt9;
 import java.util.Scanner;
 
 //Exercise 9.3 "Check Password"
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Exercise09_03 {
 	public static void main(String[] blah) {

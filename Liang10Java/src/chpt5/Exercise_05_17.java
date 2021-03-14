@@ -2,6 +2,7 @@ package chpt5;
 
 import java.util.Scanner;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 //Exercise 5.17 p.193 (216)
 //Class:
 

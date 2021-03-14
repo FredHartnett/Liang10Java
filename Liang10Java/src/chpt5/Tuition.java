@@ -1,5 +1,7 @@
 package chpt5;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class Tuition {
 	static final double BASE_TUITION = 10000.00;
 	static final int STARTING_YEAR = 2020;

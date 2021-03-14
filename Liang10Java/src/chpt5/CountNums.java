@@ -1,5 +1,7 @@
 package chpt5;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class CountNums {
 	private int countOfPositiveInts = 0;
 	private int countOfNegativeInts = 0;

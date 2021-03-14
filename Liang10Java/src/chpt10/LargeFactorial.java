@@ -2,6 +2,8 @@ package chpt10;
 
 import java.math.*;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class LargeFactorial {
 	public static void main(String[] args) {
 		System.out.println("10! is \n" + factorial(10));

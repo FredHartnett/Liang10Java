@@ -1,6 +1,8 @@
 package chpt9;
 import java.util.Scanner;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class Exercise09_06 {
 	public static void main(String[] xyz) {
 		

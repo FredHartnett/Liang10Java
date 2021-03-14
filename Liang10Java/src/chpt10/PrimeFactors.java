@@ -1,5 +1,6 @@
 package chpt10;
 //exercise 10.5 Display the prime factors (does not do all that the exercise wants, but this works)
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class PrimeFactors {	
 	public 	int		value;

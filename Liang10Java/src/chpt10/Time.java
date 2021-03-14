@@ -1,6 +1,7 @@
 package chpt10;
 
 //exercise 10.1
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 public class Time {
 	public long hour;
     public long minute;

@@ -1,6 +1,8 @@
 package chpt11;
 import java.util.GregorianCalendar;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 // Implement MyDate class
 public class MyDate {
     // Data Fields

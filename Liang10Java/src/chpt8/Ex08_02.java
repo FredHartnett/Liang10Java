@@ -1,5 +1,7 @@
 package chpt8;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class Ex08_02 {
     public static void main(String[] args) {
       Stock stock = new Stock("SUNW", "Sun MicroSystems Inc.");

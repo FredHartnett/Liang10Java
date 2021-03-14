@@ -2,6 +2,8 @@ package chpt8;
 
 import java.util.Scanner;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class Exercise08_10 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);

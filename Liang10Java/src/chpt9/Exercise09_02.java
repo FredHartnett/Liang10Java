@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 //Exercise 9.2 "Check Substrings"
 //Is the "first" string a substring of the "second" string
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Exercise09_02 {
 

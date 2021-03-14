@@ -2,6 +2,7 @@ package chpt9;
 import java.util.Scanner;
 
 //Exercise 9.1 "Check SSN"
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Exercise09_01 {
 	public static void main(String[] wow){

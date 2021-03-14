@@ -1,5 +1,7 @@
 package chpt10;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class Testing {
 
 	public static void main(String[] args) {

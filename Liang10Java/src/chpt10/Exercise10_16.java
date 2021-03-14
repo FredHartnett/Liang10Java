@@ -5,6 +5,7 @@ import java.math.BigDecimal;
 
 
 //Liang 10th Ed. Ex. 10.16 Divisible by 2 or 3
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Exercise10_16 {
 

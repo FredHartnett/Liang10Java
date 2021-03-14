@@ -2,6 +2,7 @@ package chpt9;
 import java.util.Scanner;
 
 //Exercise 9.5 "occurrences of each digit in a string"
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Exercise09_05 {
 	public static void main(String[] args) {

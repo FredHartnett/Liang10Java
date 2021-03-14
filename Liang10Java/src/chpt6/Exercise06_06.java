@@ -1,5 +1,7 @@
 package chpt6;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class Exercise06_06 {
 	
 	/** Main method */

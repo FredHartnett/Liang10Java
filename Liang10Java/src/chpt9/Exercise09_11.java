@@ -3,6 +3,7 @@ package chpt9;
 import java.util.Scanner;
 
 //exercise 9.11 Sort characters in a string
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Exercise09_11 {
 	public static void main(String[] args) {

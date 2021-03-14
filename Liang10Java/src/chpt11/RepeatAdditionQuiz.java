@@ -5,6 +5,7 @@ if an answer is entered again.  Hint: use an array list to store answers.
  */
 
 //Exercise 11.16 p.448 (471)
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 import java.util.ArrayList;
 import java.util.Scanner;

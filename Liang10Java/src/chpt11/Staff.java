@@ -1,5 +1,7 @@
 package chpt11;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class Staff extends Employee {
     private String title;
 

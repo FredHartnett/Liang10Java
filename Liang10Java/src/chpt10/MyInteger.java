@@ -1,5 +1,6 @@
 package chpt10;
 //exercise 10.3
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class MyInteger {
 	private int value;

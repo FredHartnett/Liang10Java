@@ -1,4 +1,5 @@
 package chpt11;
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Transaction {
     private java.util.Date date;

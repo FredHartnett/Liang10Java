@@ -1,6 +1,8 @@
 package chpt7;
 import java.util.Scanner;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class AssignGrades {
     public static void main(String[] args) {
         //get input from user

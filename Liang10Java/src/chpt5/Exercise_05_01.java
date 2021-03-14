@@ -1,7 +1,7 @@
 package chpt5;
 
 import java.util.Scanner;
-
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 //Exercise 5.1 p.192 (215)
 //Class: CountNums
 

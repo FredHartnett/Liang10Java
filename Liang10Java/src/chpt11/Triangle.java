@@ -1,4 +1,5 @@
 package chpt11;
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Triangle extends SimpleGeometricObject {
     private double side1 = 1.0;

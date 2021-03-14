@@ -1,5 +1,7 @@
 package chpt8;
 
+//Intro to Java Programming 10th ed. Y. Daniel Liang
+
 public class Exercise08_08 {
 
 	public static void main(String[] args) {

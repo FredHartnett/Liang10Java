@@ -1,6 +1,7 @@
 package chpt10;
 
 //exercise 10.3 MyInteger class
+//Intro to Java Programming 10th ed. Y. Daniel Liang
 
 public class Exercise_10_03_Test {
 	public static void main(String[] args) {
