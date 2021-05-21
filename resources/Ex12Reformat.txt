@@ -1,0 +1,12 @@
+public class Reformat {
+
+    public static void main(String[] args)
+    {
+        String test = "test";
+
+        if(test.equals("test"))
+        {
+            System.out.println("test = " + test);
+        }
+    }
+}
