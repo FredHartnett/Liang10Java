@@ -17,7 +17,7 @@ public class Ex12_16 {
     //prints out the absolute path to the src directory
     //System.out.println(new File("").getAbsolutePath());
 
-    String path = "/Users/fredhartnett/IdeaProjects/Liang10Java/resources/";
+    String path = "resources/";
 
     // Check if source file exists
     File sourceFile = new File(path + strings[0]);
