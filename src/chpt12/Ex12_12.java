@@ -6,6 +6,8 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//ex. 12.12 p.489
+
 public class Ex12_12 {
     public static void main(String[] args) throws FileNotFoundException {
         String inputFile = "resources/TestInput.java";

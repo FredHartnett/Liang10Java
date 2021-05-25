@@ -1,0 +1,3 @@
+This would work even with multiple spaces and leading or trailing spaces and blank lines.
+I am trying to make a program on word count which I have partially made and it is giving the correct results.
+The split function of the String class returns an array containing the words as its elements.
