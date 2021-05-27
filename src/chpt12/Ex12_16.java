@@ -1,48 +1,32 @@
 package chpt12;
 
-import java.io.*;
-import java.util.*;
-
-//Ex 12.16 p. 490
+import java.io.File;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Ex12_16 {
-  public static void main(String[] args) throws Exception {
-    String[] strings = {
-            "original.txt",
-            "newOriginal.txt",
-            "t3st",
-            "test"
-    };
+    public static void main(String[] args) throws Exception {
+        String filePath = "resources/Exercise12_16.txt";
+        File file = new File(filePath);
+        Scanner input = new Scanner(file);
+        ArrayList<String> al = new ArrayList<>();
 
-    //prints out the absolute path to the src directory
-    //System.out.println(new File("").getAbsolutePath());
+        while(input.hasNext()) {
+            String s1 = input.nextLine();
+            String s2 = s1.replaceAll("e","3");
+            al.add(s2);
+        }
 
-    String path = "resources/";
+        PrintWriter output = new PrintWriter(file);
 
-    // Check if source file exists
-    File sourceFile = new File(path + strings[0]);
-    if (!sourceFile.exists()) {
-      System.out.println("Source file " + strings[0] + " does not exist");
-      System.exit(2);
+        for(int x = 0; x < al.size(); x++) {
+            if(x == (al.size()-1)) {
+                output.print(al.get(x));
+            } else {
+                output.println(al.get(x));
+            }
+        }
+        output.close();
     }
-
-    // Check if target file exists
-    File targetFile = new File(path + strings[1]);
-    if (targetFile.exists()) {
-      System.out.println("Target file " + strings[1] + " already exists");
-      System.exit(3);
-    }
-
-    try (
-      // Create input and output files
-      Scanner input = new Scanner(sourceFile);
-      PrintWriter output = new PrintWriter(targetFile);
-    ) {        
-      while (input.hasNext()) {
-        String s1 = input.nextLine();
-        String s2 = s1.replaceAll(strings[2], strings[3]);
-        output.println(s2);
-      }
-    }
-  }
 }
